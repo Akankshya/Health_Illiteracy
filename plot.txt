@@ -1,0 +1,6 @@
+AndhraPradesh,50.0,28
+Assam,0.0,33
+Maharashtra,70.0,17
+Puducherry,0.0,14
+UttarPradesh,52.1,35
+WestBengal,40.0,18
